@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameMain
+comment0.text=\r\n\ This\ is\ the\ main\ method\ that\ will\ create\ an\ instance\ of\ the\ game\ I\ have\ created.\ \r\n\ In\ this\ game,\ the\ player\ is\ exploring\ an\ old\ manor\ that\ they\ find\ while\ fleeing\r\n\ from\ an\ unseen\ threat.\ I\ did\ my\ best\ to\ try\ an\ create\ some\ tension\ and\ mystery\r\n\ but\ wish\ I\ had\ more\ time\ to\ continue\ expanding.\r\n\r\n\ @author\ Matthew\ Schilling\r\n\ @version\ 2017.11.20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
